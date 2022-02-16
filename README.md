@@ -1,5 +1,4 @@
-## Bank Customer Churn Prediction 
-## using Logistic Regression
+## Problem Statement
 
 The dataset contains information like personal information of the customer, transaction information and bank information belonging to a bank.
 It is often necessary to predict when the customers are going to withdraw their money from the bank account and stay dormant. 
